@@ -195,7 +195,7 @@ I_sharp = I + α · (I - G_σ * I)
 
 | Original | Enhanced | Difference Map |
 |----------|----------|----------------|
-| ![Original](examples/original.jpg) | ![Enhanced](examples/enhanced.png) | ![Diff](examples/difference.png) |
+| ![Original](examples/original.jpg) | ![Enhanced](examples/enhanced.png) | ![Diff](examples/comparison.png) |
 
 *Images captured with standard mobile phone camera, processed with Lunar Lumina*
 
@@ -283,7 +283,7 @@ Please open an issue or submit a pull request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## 👤 Author
 
