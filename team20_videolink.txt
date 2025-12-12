@@ -1,0 +1,21 @@
+Lunar Lumina: Non-AI Powered Enhancement for High-Resolution Astrophotography
+Team 20 - Video Demonstration
+
+YouTube Link: https://youtu.be/Ee92KYLhIZE
+
+Project: Lunar Lumina Enhancement System
+Author: Swarnajit Bhattacharya
+Institution: National Yang Ming Chiao Tung University (NYCU)
+Department: Electrical and Computer Science Engineering (EECS)
+
+Video Contents:
+- System overview and demonstration
+- Interactive enhancement workflow
+- Real-time processing examples
+- Quality metrics comparison
+- Before/After results visualization
+
+For more information:
+- GitHub Repository: https://github.com/Swarnajitronty/NYCU-IP-2025_Fall-FinalProject-Team20.git
+- Contact: swarnajit.ee14@nycu.edu.tw
+- ORCID: 0000-0002-8113-1816
