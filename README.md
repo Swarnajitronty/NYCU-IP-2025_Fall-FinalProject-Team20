@@ -301,7 +301,7 @@ National Yang Ming Chiao Tung University (NYCU)
 
 ## 📚 References
 
-See the [full research paper](Team20_report.pdf) for comprehensive literature review and technical details covering:
+See the [full research paper](Full_Research_Paper.pdf) for comprehensive literature review and technical details covering:
 - Wavelet transforms in astronomical imaging
 - Richardson-Lucy deconvolution methods
 - CLAHE and histogram equalization techniques
