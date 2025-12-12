@@ -1,0 +1,21 @@
+# Lunar Lumina - Python Dependencies
+# Image processing and computer vision
+opencv-python>=4.5.0
+
+# Numerical computing
+numpy>=1.19.0
+
+# Wavelet transforms
+PyWavelets>=1.1.0
+
+# Scientific computing
+scipy>=1.5.0
+
+# Image processing metrics and utilities
+scikit-image>=0.17.0
+
+# Visualization
+matplotlib>=3.3.0
+
+# Optional: For better performance with large images
+# Pillow>=8.0.0
